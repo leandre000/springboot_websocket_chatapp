@@ -1,7 +1,7 @@
 # 💬 Spring Boot WebSocket Chat Application
 
 ## 🌟 Overview
-A modern **real-time chat application** built with **Spring Boot** and **WebSocket** for instant messaging, integrated with **MySQL** for data persistence and **React** for a dynamic frontend. This app enables users to join chat rooms, send messages, and receive real-time updates, providing a seamless communication experience. 🚀
+A modern **real-time chat application** built with **Spring Boot** and **WebSocket** for instant messaging, integrated with **MySQL** for data persistence and **Js** for a dynamic frontend. This app enables users to join chat rooms, send messages, and receive real-time updates, providing a seamless communication experience. 🚀
 
 ## ✨ Key Features
 - 💬 **Real-Time Messaging**: Send and receive messages instantly via WebSocket.
